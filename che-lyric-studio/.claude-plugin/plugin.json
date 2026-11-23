@@ -1,0 +1,11 @@
+{
+  "name": "che-lyric-studio",
+  "version": "1.0.0",
+  "description": "Eén lyric-skill met stijlkeuze: CHE (eigen stem), APOCALYPS (duistere underground-rap), PUNCHLINE (woordspel) of LIED (bachata, trova, ballad), of een mix. Fonetische rijmkaart, flow, clichéfilter, redactiepanel, cross-model review, Suno-prompts en een lerend stijlgeheugen.",
+  "author": {
+    "name": "Che"
+  },
+  "repository": "https://github.com/chevuera/plugins",
+  "license": "MIT",
+  "keywords": ["lyrics", "rap", "songtekst", "nederlands", "papiamentu", "suno", "bachata", "trova"]
+}
